@@ -110,9 +110,10 @@ pip install flask
 python backend/app.py
 
 -------
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/00098a80-5c47-4008-be00-cd6dd16099c9" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/db2de9dc-107b-456c-b8fc-24d58cf43424" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fbcedf7d-bbd7-4811-9a12-0945bba372f2" />
+## ScreenShots
+"C:\Users\harik\OneDrive\Pictures\Screenshots 1\login.png"
+"C:\Users\harik\OneDrive\Pictures\Screenshots 1\register.png"
+"C:\Users\harik\OneDrive\Pictures\Screenshots 1\dashboard1.png"
+"C:\Users\harik\OneDrive\Pictures\Screenshots 1\dashboard2.png"
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae19c085-4da9-4c9e-afed-848c8c8f6d4d" />
 
