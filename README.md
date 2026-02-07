@@ -98,7 +98,10 @@ revisionTracker/
 - **notes** – TEXT
 
 <img width="1920" height="1200" alt="login" src="https://github.com/user-attachments/assets/0c81be4a-c089-45c3-b8fc-d65c2ab92ef5" />
+<img width="1920" height="1200" alt="register" src="https://github.com/user-attachments/assets/1fb3adf5-4aea-49e3-8db0-e733175b3c02" />
 
+<img width="1920" height="1200" alt="dashboard1" src="https://github.com/user-attachments/assets/cfae39f2-84fc-427e-96e5-64246e9e6e86" />
+<img width="1920" height="1200" alt="dashboard2" src="https://github.com/user-attachments/assets/01dc0aa1-a519-4184-85e6-7e445a4511d3" />
 
 ## How to Run the Project
 ### Clone the Repository
@@ -113,6 +116,7 @@ pip install flask
 python backend/app.py
 
 -------
+
 
 
 
