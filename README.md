@@ -46,6 +46,7 @@ This application provides a structured way to track studied topics, revision sta
 - Review notes before interviews
 
 ## Project Structure
+```bash
 revisionTracker/
 │
 ├── Frontend/
@@ -62,7 +63,7 @@ revisionTracker/
 ├── api_endpoints.txt
 ├── db_schema.txt
 └── README.md
-
+```
 ## 🔗 REST API Endpoints
 
 ### 🔐 Authentication APIs
@@ -116,6 +117,7 @@ pip install flask
 python backend/app.py
 
 -------
+
 
 
 
