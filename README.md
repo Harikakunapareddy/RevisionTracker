@@ -110,10 +110,7 @@ pip install flask
 python backend/app.py
 
 -------
-## ScreenShots
-"C:\Users\harik\OneDrive\Pictures\Screenshots 1\login.png"
-"C:\Users\harik\OneDrive\Pictures\Screenshots 1\register.png"
-"C:\Users\harik\OneDrive\Pictures\Screenshots 1\dashboard1.png"
-"C:\Users\harik\OneDrive\Pictures\Screenshots 1\dashboard2.png"
+
+
 
 
