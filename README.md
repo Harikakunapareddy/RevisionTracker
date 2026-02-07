@@ -82,7 +82,7 @@ revisionTracker/
 |------|--------|------------|
 | POST | `/add_revision` | Add studied topic |
 | GET | `/get_revisions` | Fetch user topics |
-| POST | `/tasks/delete`     | Delete a topic 
+| DELETE | `/tasks/delete`     | Delete a topic 
 | POST | `/add_notes` | Add revision notes |
 
 ## 🗄 Database Schema
@@ -118,6 +118,7 @@ pip install flask
 python backend/app.py
 
 -------
+
 
 
 
