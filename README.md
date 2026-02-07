@@ -97,6 +97,9 @@ revisionTracker/
 - **status** – TEXT
 - **notes** – TEXT
 
+<img width="1920" height="1200" alt="login" src="https://github.com/user-attachments/assets/0c81be4a-c089-45c3-b8fc-d65c2ab92ef5" />
+
+
 ## How to Run the Project
 ### Clone the Repository
 ```bash
@@ -110,6 +113,7 @@ pip install flask
 python backend/app.py
 
 -------
+
 
 
 
