@@ -1,0 +1,12 @@
+Table: users
+- id (INTEGER, PRIMARY KEY)
+- username (TEXT)
+- email (TEXT)
+- password (TEXT)
+
+Table: revisions
+- id (INTEGER, PRIMARY KEY)
+- user_id (INTEGER)
+- topic (TEXT)
+- status (TEXT)
+- notes (TEXT)

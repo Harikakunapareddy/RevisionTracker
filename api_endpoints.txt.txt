@@ -1,0 +1,5 @@
+POST /register  - Register a new user
+POST /login     - Authenticate user
+GET /revisions  - Fetch user revisions
+POST /notes     - Save notes
+DELETE /task    - Delete a revision

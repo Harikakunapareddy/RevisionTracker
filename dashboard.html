@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Revision Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="dashboard-wrapper">
+    <div class="wide-container">
+
+        <div class="dashboard-header">
+            <h2>Revision Tracker</h2>
+            <button id="logoutBtn">Logout</button>
+        </div>
+
+        <form id="taskForm" class="task-form">
+            <input type="text" id="taskInput" placeholder="Enter topic" required>
+            <button type="submit">Add</button>
+        </form>
+
+        <table class="task-table">
+            <thead>
+                <tr>
+                    <th>Status</th>
+                    <th>Topic</th>
+                    <th>Revision</th>
+                    <th>Notes</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody id="taskList"></tbody>
+        </table>
+
+        <div class="notes-section" id="notesSection">
+            <h3>Important Notes</h3>
+            <textarea id="generalNotes" placeholder="Write your notes here..."></textarea>
+            <button id="saveNotes" type="button">Save Notes</button>
+        </div>
+
+    </div>
+</div>
+
+<script src="jsScript.js"></script>
+</body>
+</html>
